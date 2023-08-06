@@ -63,3 +63,7 @@ Jenkins
 5} integration with jenkins
 6} about EKS 
 7} About Deplyoment Strategy and various Controllers
+
+
+
+Will add some more questions soon
