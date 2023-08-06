@@ -1,4 +1,9 @@
-Interview questions asked for one of our Student from Previous batch
+
+
+
+
+Interview questions for DevOps
+
 
 My First Devops Interview Questions.
           Linux
@@ -20,9 +25,11 @@ My First Devops Interview Questions.
 8} How AutoScaling will work and Metrics 
 9} About NAT gateways( indirect)
 10} about Subnets , NACL
- He asked most of the questions indirectly.
+
          
-           Jenkins
+
+
+Jenkins
 1} explain from scratch CI/CD Process
 2} security level in jenkins
 3} told me to write any pipeline 
