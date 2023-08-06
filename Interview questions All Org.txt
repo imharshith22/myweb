@@ -1,0 +1,58 @@
+Interview questions asked for one of our Student from Previous batch
+
+My First Devops Interview Questions.
+          Linux
+1} He  asked indierctly about Netstat command
+2} SSH command and changing port Numbers
+3} How to check Diskusage,  Diskfree commands
+4} about bash shell and gave a task to write script using bash
+  question is - check the diskusage and if the thershold level exceeds clean the disk logs and delete the unnecessary dockerImage
+5} Find empty file in a current Dir
+
+         max questions on  AWS
+1} How to change default port number in securitygroup in AWS
+2} About ELB and EFS and their Types
+3} About VPC peering(indirect) 
+4} about Regions and AZ
+5} about ALB and NLB
+6} about Listner and TargetGroup
+7} HealthCheckups , CloudWatch , CloudTrail
+8} How AutoScaling will work and Metrics 
+9} About NAT gateways( indirect)
+10} about Subnets , NACL
+ He asked most of the questions indirectly.
+         
+           Jenkins
+1} explain from scratch CI/CD Process
+2} security level in jenkins
+3} told me to write any pipeline 
+         
+           Ansible
+1} Asked about Playbooks
+2} Asked about Architecture
+3} about Modules 
+4} asked indirectly about AnsibleGalaxy
+5} about group_vars and host_vars
+6} about Dynamic INventory with python
+7} about MongoDB
+ 
+           Terraform
+1} Terraform commands
+2} Terraform modules 
+3} Terraform Variables
+
+            Docker 
+1} Docker ADD (indirect) and d/f b/t ADD and COPY
+2} Docker commands 
+3} Docker integration with jenkins
+4} some troubleshooting questions
+5} what are the Microservices you have used
+
+            K8s
+1} k8s Architecture
+2} about HPA , LoadBalancer, MetricSrever
+3} about Prometheus and grafana
+4} about Livenessprobe and Readinessprobe
+5} integration with jenkins
+6} about EKS 
+7} About Deplyoment Strategy and various Controllers
